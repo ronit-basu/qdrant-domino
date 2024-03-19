@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  commonlib:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-03-19T00:32:33.659608-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 92953f103aa7e6f8a82a22df54e6861f8b1ed7ae0c5ddd9332b17b844e4511b1
+    name: commonlib
+    type: library
+    urls:
+    - https://ronit-basu.github.io/qdrant-domino/charts/commonlib-0.13.0.tgz
+    version: 0.13.0
+generated: "2024-03-19T00:32:33.657903-04:00"
