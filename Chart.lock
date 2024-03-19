@@ -1,0 +1,6 @@
+dependencies:
+- name: commonlib
+  repository: oci://gcr.io/domino-eng-service-artifacts
+  version: 0.13.0
+digest: sha256:be7027acb9582ddb9c56ffc00a791490dadfd812d1f1ff7a239abb7b2da1d71d
+generated: "2024-01-03T20:12:37.283771+05:30"

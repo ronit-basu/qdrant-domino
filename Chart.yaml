@@ -1,0 +1,15 @@
+apiVersion: v2
+name: qdrant
+description: Qdrant - Vector Database for the next generation of AI applications.
+sources:
+  - https://github.com/qdrant/qdrant
+  - https://github.com/qdrant/qdrant-helm
+keywords:
+  - vector database
+type: application
+version: 0.7.4-0.0.1
+appVersion: v1.7.3
+dependencies:
+  - name: commonlib
+    version: 0.13.0
+    repository: oci://gcr.io/domino-eng-service-artifacts
